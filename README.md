@@ -40,8 +40,6 @@ To build a predictive model for the IDR/USD exchange rate using multivariate tim
    - Inverse transformation of differenced data (if applied)  
 
 4. **Evaluation**  
-   - RMSE (Root Mean Squared Error)  
-   - MAE (Mean Absolute Error)  
    - Visual inspection of actual vs predicted exchange rates  
 
 ## 📦 Dependencies
