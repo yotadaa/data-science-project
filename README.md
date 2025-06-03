@@ -57,4 +57,6 @@ seaborn
 scikit-learn
 ```
 You can install them using pip:
+```bash
 pip install pandas numpy matplotlib statsmodels seaborn scikit-learn
+```
